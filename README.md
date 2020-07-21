@@ -1,8 +1,8 @@
 ### Hi there, I'm Akbar 👋
 
-Hi, I'm M. Akbar Nugroho, a passionate self-taught full-~snack~stack web developer from Indonesia 🇮🇩.
+Hi, I'm M. Akbar Nugroho, a passionate self-taught full-stack web developer from Indonesia 🇮🇩.
 
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🌱 I’m currently learning Rust & Vue.js
 
-![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexdev&theme=dracula&show_icons=true)]
-![[Akbar's github stats](https://github-readme-stats.vercel.app/api?username=thexdev&theme=dracula&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexdev&theme=radical)](https://github.com/thexdev)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thexdev&show_icons=true&theme=radical)
