@@ -2,7 +2,7 @@
 
 ### 👋 Hello, world!
 
-My name is M. Akbar Nugroho and I'm a software developer. I'm from Indonesia, living in Mageleng City and currently working at PT. Hayuning Indo Tech. You can find me on <img src="static/img/linkedin.svg" alt="linkedin" width="16" height="16">.
+My name is M. Akbar Nugroho and I'm a software developer. I'm from Indonesia, living in Mageleng City and currently working at PT. Hayuning Indo Tech. You can find me on [<img src="static/img/linkedin.svg" alt="linkedin" width="16" height="16">](https://www.linkedin.com/in/thexdev/).
 
 ### ✍️ Blog & Writing
 
