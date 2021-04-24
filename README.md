@@ -10,9 +10,9 @@ Apart from coding, I also maintain a blog. You can find my articles on my [Mediu
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexdev&hide=html,css&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff)](https://github.com/thexdev)
-![Akbar's github stats](https://github-readme-stats.vercel.app/api?username=thexdev&show_icons=true&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&icon_color=d02aca)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thexdev&repo=belanjaa&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&icon_color=d02aca)](https://github.com/thexdev/belanjaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexdev&hide=html,css&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/thexdev)
+![Akbar's github stats](https://github-readme-stats.vercel.app/api?username=thexdev&show_icons=true&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&icon_color=d02aca&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thexdev&repo=belanjaa&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&icon_color=d02aca&hide_border=true)](https://github.com/thexdev/belanjaa)
 
 ### 🛠️ Tools & Technologies
 
