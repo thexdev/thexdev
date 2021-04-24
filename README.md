@@ -1,4 +1,4 @@
-![cover](static/img/cover.svg)
+![cover](static/img/cover.png)
 
 ### 👋 Hello, world!
 
@@ -10,10 +10,10 @@ Apart from coding, I also maintain a blog. You can find my articles on my [Mediu
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexdev&hide=html,css)](https://github.com/thexdev)
-![Akbar's github stats](https://github-readme-stats.vercel.app/api?username=thexdev&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thexdev&repo=belanjaa)](https://github.com/thexdev/belanjaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thexdev&hide=html,css&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff)](https://github.com/thexdev)
+![Akbar's github stats](https://github-readme-stats.vercel.app/api?username=thexdev&show_icons=true&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&icon_color=d02aca)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thexdev&repo=belanjaa&bg_color=90,6d28d9,5b21b6&title_color=ffffff&text_color=ffffff&icon_color=d02aca)](https://github.com/thexdev/belanjaa)
 
 ### 🛠️ Tools & Technologies
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=blue) ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=blue) ![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=blue) ![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=blue) ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) ![Jest](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=Jest&logoColor=white&color=blue) ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue) ![Digital Ocean](https://img.shields.io/badge/Cloud-Digital%20Ocean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=blue)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=7c3aed) ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&color=7c3aed) ![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&logoColor=white&color=7c3aed) ![TailwindCSS](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&color=7c3aed) ![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=Laravel&logoColor=white&color=7c3aed) ![Git](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=7c3aed) ![Jest](https://img.shields.io/badge/Tools-Jest-informational?style=for-the-badge&logo=Jest&logoColor=white&color=7c3aed) ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=7c3aed) ![Digital Ocean](https://img.shields.io/badge/Cloud-Digital%20Ocean-informational?style=for-the-badge&logo=DigitalOcean&logoColor=white&color=7c3aed)
